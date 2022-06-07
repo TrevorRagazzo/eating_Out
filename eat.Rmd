@@ -39,7 +39,7 @@ barchartGC(~race + eatout,data=mydata, type="percent")
 
 ```
 
-This graph is showing that the white race has a over 1000 frequency and the black race was below 200. Overall this graph shows the white race eats out the most and the black and other races eat out about the same. 
+This graph is showing that the white race has a over 1000 frequency and the black race was below 200. Overall this graph shows the white race eats out the most and the black and other races eat out about the same. The black and other races had a percentage of 70% of people eating out, while the white race was more than 80% of people eat out. 
 
 
 
